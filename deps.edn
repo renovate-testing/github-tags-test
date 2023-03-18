@@ -1,3 +1,3 @@
 {:deps {renovatebot/renovate {:git/url "https://github.com/renovatebot/renovate.git"
-                              :git/tag "34.31.1"
-                              :git/sha "f3eb902a5e460c461c7ecea09265ee71f540af7f"}}}
+                              :git/tag "35.10.2"
+                              :git/sha "3c9cb362490c7cc3430f94260c43524419abe1ff"}}}
