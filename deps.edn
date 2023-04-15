@@ -1,4 +1,4 @@
 {:deps {sindresorhus/type-fest 
         {:git/url "https://github.com/sindresorhus/type-fest.git"
-         :git/tag "3.7.2"
-         :git/sha "2e498662b7cdb8e70fbaa9864d7d860e48983a40"}}
+         :git/tag "v3.8.0"
+         :git/sha "9feb8c89be9a0f2f688bf2f497230298a8e2472e"}}
