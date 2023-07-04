@@ -1,5 +1,5 @@
 {:deps 
  {gradle/gradle {:git/url "https://github.com/gradle/gradle.git"
-                 :git/tag "7.6.2"}
+                 :git/tag "v8.2.0"}
  }
 }
